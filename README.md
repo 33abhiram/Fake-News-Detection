@@ -33,7 +33,7 @@ This project focuses on detecting fake news from COVID-19-related tweets. Using 
      - Trained and evaluated the models.
 
 4. **Observations**
-   - Identified the best-performing model based on evaluation metrics.
+   - Identified the best-performing model based on evaluation metrics - MLP Classifier model achieves the highest accuracy at 93%, suggesting its ability to capture complex relationships in the sentence-level features.
    - Provided insights by printing 10 examples from the test data with actual and predicted labels.
 
 ## References
